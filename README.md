@@ -14,6 +14,7 @@ http://monsite/myAdmin/index.php?A&Tools\EditHTML
 
 Activate the module in Tools
 
+See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/30-apps_tools_html_editor/
 
 
